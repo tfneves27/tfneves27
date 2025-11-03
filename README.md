@@ -4,7 +4,6 @@
 - 🐍 Focado em aprofundar meus conhecimentos em Python e Engenharia de Software.
 - 🚀 Buscando ativamente minha primeira oportunidade de estágio na área de tecnologia.
 
-
- ## 📫 Contato
- * **LinkedIn:** `[www.linkedin.com/in/tiago-félix-neves-57118628b]`
-* **E-mail:** `[tiagoneves270105@gmail.com]`
+## 📫 Como me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-félix-neves-57118628b)
+**E-mail:** `[tiagoneves270105@gmail.com]`
