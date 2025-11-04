@@ -4,7 +4,7 @@
 - 🐍 Focado em aprofundar meus conhecimentos em Python e Engenharia de Software.
 - 🚀 Buscando ativamente minha primeira oportunidade de estágio na área de tecnologia.
   
-## 🛠️ Tech Skills (O que eu uso hoje)
+## 🛠️ Tech Skills
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -15,7 +15,7 @@
 
 ---
 
-## 🌱 O que estou aprendendo (Próximos Passos)
+## 🌱 O que estou aprendendo
 
 Meu foco agora é solidificar minha base em Python e, em seguida, mergulhar no desenvolvimento mobile nativo:
 <div style="display: inline_block"><br>
