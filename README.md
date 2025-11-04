@@ -18,7 +18,6 @@
 ## 🌱 O que estou aprendendo (Próximos Passos)
 
 Meu foco agora é solidificar minha base em Python e, em seguida, mergulhar no desenvolvimento mobile nativo:
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Kotlin" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
 </div>
